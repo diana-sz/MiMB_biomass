@@ -2,10 +2,13 @@
 biomass composition data of CHO-K1 in mid-exponential phase 
 
 Conditions:
+
 batch culture in Erlenmeyer non-baffled flasks
+
 Medium: HyClone ActiPro (GE Healthcare) with 8 mM Glutamine and 0.2% Anti-Clumping Agent
 
 Files:
+
 "MiMB_biomass_K1_Act.csv" - macromolecular biomass composition (protein, lipid, RNA, DNA, carbohydrate, dry cell mass) in pg per cell
 
 "MiMB_lipids_K1_Act.csv" - lipid composition in nmol per 10^7 cells
