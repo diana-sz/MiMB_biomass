@@ -17,5 +17,6 @@ Files:
 (for conversion into grams use molecular masses of AA in peptides = AA molecular mass minut 1 H2O molecule)
 
 
-###################################################################################################################
+############################################################################################
+
 "PBS_vs_NaCl.pdf" - comparison of dry mass determination with PBS or 0.9% NaCl used for washing the cells
